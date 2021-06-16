@@ -43,3 +43,6 @@
 <img align="left" alt="Apache" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />
 <br>
 
+### Connect with me:
+
+<img align="left" alt="Linked in" width="22px" src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />" />
