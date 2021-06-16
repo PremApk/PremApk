@@ -1,6 +1,6 @@
-# Yo, Whazzup? I'm [PremKumar a.k.a Apk!](https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/imgs/Hi.gif" width="25px">
+# Yo, Whazzup? I'm [PremKumar a.k.a Apk!](https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px">
 <br><br>
-![](https://github.com/PremApk/PremApk/header_.png)
+![](https://github.com/PremApk/PremApk/blob/main/header_.png)
 
 <!--
 **PremApk/PremApk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
