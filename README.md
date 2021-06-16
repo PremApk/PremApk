@@ -12,7 +12,7 @@
 - ⚡ Fun Fact: I love to be a **Gamer**. But I play once in a month.
 
 
-### Currently Streaming 🎧
+### Spotify Streaming 🎧
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i6kun2dwsyhtfrs3dtexobf5vy&cover_image=true&theme=novatorem)
 <br>
 
@@ -26,6 +26,7 @@
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />
 <img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+
 <br><br>
 
 ### Tools and IDE's:
@@ -51,8 +52,15 @@
 [<img height="32" width="32" alt="Time Capsule" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>][timcap] &nbsp; &nbsp;
 [<img height="32" width="32" alt="i++" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>][i++] &nbsp; &nbsp;
 
+<br>
+  
+<details>
+  <summary>:love_you_gesture: GitHub Stats</summary>
 
----
+  <img align="left" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=true&theme=tokyonight" />
+
+</details>
+
 
 [linkedin]:https://www.linkedin.com/in/premkumar-arumugam/
 [hackerrank]:https://www.hackerrank.com/premapk
