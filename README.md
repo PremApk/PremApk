@@ -41,8 +41,25 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Heroku" width="40px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" />
 <img align="left" alt="Apache" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />
-<br>
+<br><br>
 
 ### Connect with me:
 
-<img align="left" alt="Linked in" width="22px" src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />" />
+[<img height="32" width="32" alt="Linked In" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"/>][insta] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Quora" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][quora] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Hacker rank" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hackerrank.svg"/>][hackerrank] &nbsp; &nbsp;
+[<img height="32" width="32" alt="LeetCode" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg"/>][leetcode] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Time Capsule" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][timcap] &nbsp; &nbsp;
+[<img height="32" width="32" alt="i++" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>][i++] &nbsp; &nbsp;
+
+
+
+
+[linkedin]:https://www.linkedin.com/in/premkumar-arumugam/
+[hackerrank]:https://www.hackerrank.com/premapk
+[leetcode]:https://leetcode.com/its_apk/
+[insta]:https://www.instagram.com/its_apk/
+[timcap]:http://timcap.herokuapp.com/
+[quora]:https://www.quora.com/profile/PremKumar-68
+[i++]:https://play.google.com/store/apps/details?id=com.awesome.i&hl=en
