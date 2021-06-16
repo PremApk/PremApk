@@ -11,8 +11,9 @@
 - :upside_down_face: Skilled Python Coder
 - ⚡ Fun Fact: I love to be a **Gamer**. But I play once in a month.
 <br>
+
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i6kun2dwsyhtfrs3dtexobf5vy&cover_image=true&theme=compact)]
+[![Spotify](https://novatorem-seven-azure.vercel.app/api/spotify)](https://open.spotify.com/user/31i6kun2dwsyhtfrs3dtexobf5vy)
 <br>
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/PremApk/PremApk/blob/main/imgs/python-5.svg" />][webdevplaylist]
