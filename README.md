@@ -17,18 +17,18 @@
 <br>
 
 ### Languages and FrameWorks:
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />
-<img align="left" alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />
-<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;
+<img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />&nbsp;
+<img align="left" alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />&nbsp;
+<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;
+<img align="left" alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />&nbsp;
+<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />&nbsp;
 
-<br><br>
 
+<br>
 
 ### Tools and IDE's:
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
@@ -41,16 +41,18 @@
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Git" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" />
 <img align="left" alt="Heroku" width="40px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" />
-<img align="left" alt="Apache" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/xampp.svg" />
-<br><br>
+<img align="left" alt="Apache" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/xampp.svg" />&ensp; &ensp;
+
+<br>
+<br>
 
 ### Connect with me:
 
-[<img height="32" width="32" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg"/>][linkedin] &nbsp; &nbsp;
-[<img height="32" width="32" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg"/>][insta] &nbsp; &nbsp;
-[<img height="32" width="32" alt="Facebook" src="https://github.com/PremApk/PremApk/blob/main/imgs/facebook.svg"/>][fb] &nbsp; &nbsp;
-[<img height="32" width="32" alt="Play Games" src="https://github.com/PremApk/PremApk/blob/main/imgs/playgames.svg"/>][games] &nbsp; &nbsp;
-[<img height="32" width="32" alt="Quora" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>][quora] &nbsp; &nbsp;
+[<img height="32" width="32" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg"/>][linkedin] &ensp; &ensp;
+[<img height="32" width="32" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg"/>][insta] &ensp; &ensp;
+[<img height="32" width="32" alt="Facebook" src="https://github.com/PremApk/PremApk/blob/main/imgs/facebook.svg"/>][fb] &ensp; &ensp;
+[<img height="32" width="32" alt="Play Games" src="https://github.com/PremApk/PremApk/blob/main/imgs/playgames.svg"/>][games] &ensp; &ensp;
+[<img height="32" width="32" alt="Quora" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>][quora] &ensp; &ensp;
 [<img height="32" width="32" alt="Hacker rank" src="https://github.com/PremApk/PremApk/blob/main/imgs/hackerrank.svg"/>][hackerrank] &nbsp; &nbsp;
 [<img height="32" width="32" alt="Time Capsule" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>][timcap] &nbsp; &nbsp;
 [<img height="32" width="32" alt="i++" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>][i++] &nbsp; &nbsp;
