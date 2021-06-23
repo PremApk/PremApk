@@ -36,7 +36,6 @@
 <img align="left" alt="Linux" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/linux.svg" />
 <img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Unity" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/unity.svg" />
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Git" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" />
