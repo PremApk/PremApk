@@ -16,7 +16,7 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i6kun2dwsyhtfrs3dtexobf5vy&cover_image=true&theme=novatorem)
 <br>
 
-### Languages and FrameWorks:
+### :dart: <u>Languages and FrameWorks</u> 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;
 <img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />&nbsp;
 <img align="left" alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />&nbsp;
@@ -30,7 +30,7 @@
 
 <br>
 
-### Tools and IDE's:
+### :mechanical_arm: Tools and IDE's 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Intellij" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/intellij-idea.svg" />
 <img align="left" alt="Linux" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/linux.svg" />
@@ -45,7 +45,7 @@
 <br>
 <br>
 
-### Connect with me:
+### :handshake: Connect with me 
 
 [<img height="32" width="32" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg"/>][linkedin] &ensp; &ensp;
 [<img height="32" width="32" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg"/>][insta] &ensp; &ensp;
@@ -57,11 +57,10 @@
 [<img height="32" width="32" alt="i++" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>][i++] &nbsp; &nbsp;
 <br>
 
-### :love_you_gesture: GitHub Stats
+### :love_you_gesture: GitHub Stats 
 <p float="left">
 <img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=false&theme=tokyonight"/>&ensp; &ensp;
 <img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PremApk&theme=tokyonight"/> &ensp;
-<a href="https://github.com/PremApk/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PremApk&bg_color=00001A&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=false&theme=tokyonight" /></a>
 </p>
 
 
