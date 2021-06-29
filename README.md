@@ -3,6 +3,7 @@
 ![](https://github.com/PremApk/PremApk/blob/main/header_.png)
 <br><br>
 ### I'm a Developer, Weeb and Binge-Series Watcher!!
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/coder_gif.gif?raw=true" width="400" height="300" />
 
 - :icecream: Life is like **Ice-Cream**, Enjoy before it **Melts**!!!
 - 😄 Looking forward to collaborate with others
