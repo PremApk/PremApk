@@ -10,12 +10,14 @@
 - 🥇 Game Development World Championship 2020 -- Finalist
 - :upside_down_face: Skilled **Python** Coder
 - ⚡ Fun Fact: I love to be a **Gamer**. But I play once in a month.
-
+---
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Streaming 🎧
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i6kun2dwsyhtfrs3dtexobf5vy&cover_image=true&theme=novatorem)
 <br>
 
+---
 ### :dart: <u>Languages and FrameWorks</u> 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;
 <img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />&nbsp;
@@ -57,11 +59,17 @@
 [<img height="32" width="32" alt="i++" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>][i++] &nbsp; &nbsp;
 <br>
 
+---
+
 ### :love_you_gesture: GitHub Stats 
 <p float="left">
 <img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=false&theme=tokyonight"/>&ensp; &ensp;
 <img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PremApk&theme=tokyonight"/> &ensp;
 </p>
+
+---
+
+<img src="https://imgur.com/rilHVxA.png"/> 
 
 
 [linkedin]:https://www.linkedin.com/in/premkumar-arumugam/
