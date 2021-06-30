@@ -11,10 +11,10 @@
 - :upside_down_face: Skilled **Python** Coder
 - ⚡ Fun Fact: I love to be a **Gamer**. But I play once in a month.
 
-<img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 ### Spotify Streaming 🎧
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i6kun2dwsyhtfrs3dtexobf5vy&cover_image=true&theme=novatorem)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i6kun2dwsyhtfrs3dtexobf5vy&cover_image=true&theme=novatorem) &nbsp; &nbsp; &ensp; &ensp; <img  alt="GIF" height="125px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <br>
 
 ### :dart: <u>Languages and FrameWorks</u> 
