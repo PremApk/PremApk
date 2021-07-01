@@ -66,15 +66,9 @@
 <!--
 <img src="https://imgur.com/rilHVxA.png"/> 
 -->
-<details>
-  <summary>Favourite Books</summary>
-  <ul>
-    <li>💰Rich Dad Poor Dad</li>
-    <li>💼How to Enjoy Life and Job</li>
-    <li>💸The CashFlow Quadrant</li>
-  </ul>
-  
-</details>
+
+---
+       *If you think my profile is good, you can Star ⭐ the repo and if you want to use this template you can Fork it.*
 
 [linkedin]:https://www.linkedin.com/in/premkumar-arumugam/
 [hackerrank]:https://www.hackerrank.com/premapk
