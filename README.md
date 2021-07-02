@@ -68,7 +68,7 @@
 -->
 
 ---
-    *If you think my profile is good, you can Star ⭐ the repo and to contribute this template, you can Fork it.*
+   *If you think my profile is good, you can Star ⭐ the repo and to contribute this template, you can Fork it.*
 
 [linkedin]:https://www.linkedin.com/in/premkumar-arumugam/
 [hackerrank]:https://www.hackerrank.com/premapk
