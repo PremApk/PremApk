@@ -17,6 +17,37 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i6kun2dwsyhtfrs3dtexobf5vy&cover_image=true&theme=novatorem) &nbsp; &nbsp; &ensp; &ensp; <img  alt="GIF" height="125px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <br>
 
+<table>
+  <th colspan="9">Languages and FrameWorks</th>
+  <td>
+  <img align="middle" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td>
+  <img align="middle" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />  
+  </td>
+  <td>
+  <img align="middle" alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
+  </td>
+  <td>
+  <img align="middle" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
+  </td>
+  <td>
+  <img align="middle" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
+  </td>
+  <td>
+  <img align="middle" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  </td>
+  <td>
+  <img align="middle" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  </td>
+   <td>
+  <img align="middle" alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />
+  </td>
+   <td>
+  <img align="middle" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+  </td>
+</table>
+<!--
 ### :dart: <u>Languages and FrameWorks</u> 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;
 <img align="left" alt="CPP" width="35px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />&nbsp;
@@ -27,11 +58,57 @@
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;
 <img align="left" alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />&nbsp;
 <img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />&nbsp;
-
-
+-->
 <br>
 
-### :mechanical_arm: Tools and IDE's 
+<table>
+  <tr>
+    <th colspan="10" align="middle">TOOLS AND IDE</th>
+  </tr>
+  <tr>
+  <td>
+    <a href="https://code.visualstudio.com/download">
+    <img align="middle" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> 
+  </td>
+  <td>
+    <a href="https://www.jetbrains.com/idea/download/#section=windows">
+    <img align="middle" alt="Intellij" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/intellij-idea.svg" /> 
+  </td>
+  <td>
+    <a href="https://www.linux.org/">
+    <img align="middle" alt="Linux" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/linux.svg" /> 
+  </td>
+  <td>
+    <a href="https://developer.android.com/studio">
+    <img align="middle" alt="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+  </td>
+  <td>
+    <a href="https://unity.com/">
+    <img align="middle" alt="Unity" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/unity.svg" /> 
+  </td>
+  <td>
+    <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab">
+    <img align="middle" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
+  </td>
+  <td>
+    <a href="https://www.docker.com/products/docker-desktop">
+    <img align="middle" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> 
+  </td>
+  <td>
+    <a href="https://git-scm.com/downloads">
+    <img align="middle" alt="Git" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" /> 
+  </td>
+  <td>
+    <a href="https://www.heroku.com/">
+    <img align="middle" alt="Heroku" width="40px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" /> 
+  </td>
+  <td>
+    <a href="https://www.apachefriends.org/download.html">
+    <img align="middle" alt="Apache" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/xampp.svg" /> 
+  </td>
+  </tr>
+</table>
+<!--
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](https://code.visualstudio.com/download)
 [<img align="left" alt="Intellij" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/intellij-idea.svg" />](https://www.jetbrains.com/idea/download/#section=windows)
 [<img align="left" alt="Linux" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/linux.svg" />](https://www.linux.org/)
@@ -42,7 +119,7 @@
 [<img align="left" alt="Git" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" />](https://git-scm.com/downloads)
 [<img align="left" alt="Heroku" width="40px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" />](https://www.heroku.com/)
 [<img align="left" alt="Apache" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/xampp.svg" />](https://www.apachefriends.org/download.html)&ensp; &ensp;
-
+-->
 <br>
 <br>
 
