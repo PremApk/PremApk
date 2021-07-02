@@ -32,16 +32,16 @@
 <br>
 
 ### :mechanical_arm: Tools and IDE's 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Intellij" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/intellij-idea.svg" />
-<img align="left" alt="Linux" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/linux.svg" />
-<img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Unity" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/unity.svg" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Git" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" />
-<img align="left" alt="Heroku" width="40px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" />
-<img align="left" alt="Apache" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/xampp.svg" />&ensp; &ensp;
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](https://code.visualstudio.com/download)
+[<img align="left" alt="Intellij" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/intellij-idea.svg" />](https://www.jetbrains.com/idea/download/#section=windows)
+[<img align="left" alt="Linux" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/linux.svg" />](https://www.linux.org/)
+[<img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />](https://developer.android.com/studio)
+[<img align="left" alt="Unity" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/unity.svg" />](https://unity.com/)
+[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
+[<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/products/docker-desktop)
+[<img align="left" alt="Git" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" />](https://git-scm.com/downloads)
+[<img align="left" alt="Heroku" width="40px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" />](https://www.heroku.com/)
+[<img align="left" alt="Apache" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/xampp.svg" />](https://www.apachefriends.org/download.html)&ensp; &ensp;
 
 <br>
 <br>
