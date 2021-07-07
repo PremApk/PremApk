@@ -59,39 +59,39 @@
   </tr>
   <tr>
   <td>
-    <a href="https://code.visualstudio.com/download">
+    <a href="https://code.visualstudio.com/download" target="_blank">
     <img align="middle" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> 
   </td>
   <td>
-    <a href="https://www.jetbrains.com/idea/download/#section=windows">
+    <a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank">
     <img align="middle" alt="Intellij" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/intellij-idea.svg" /> 
   </td>
   <td>
-    <a href="https://developer.android.com/studio">
+    <a href="https://developer.android.com/studio" target="_blank">
     <img align="middle" alt="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
   </td>
   <td>
-    <a href="https://unity.com/">
+    <a href="https://unity.com/" target="_blank">
     <img align="middle" alt="Unity" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/unity.svg" /> 
   </td>
   <td>
-    <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab">
+    <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab" target="_blank">
     <img align="middle" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
   </td>
   <td>
-    <a href="https://www.docker.com/products/docker-desktop">
+    <a href="https://www.docker.com/products/docker-desktop" target="_blank">
     <img align="middle" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> 
   </td>
   <td>
-    <a href="https://git-scm.com/downloads">
+    <a href="https://git-scm.com/downloads" target="_blank">
     <img align="middle" alt="Git" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" /> 
   </td>
   <td>
-    <a href="https://www.heroku.com/">
+    <a href="https://www.heroku.com/" target="_blank">
     <img align="middle" alt="Heroku" width="40px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" /> 
   </td>
   <td>
-    <a href="https://www.apachefriends.org/download.html">
+    <a href="https://www.apachefriends.org/download.html" target="_blank">
     <img align="middle" alt="Apache" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/xampp.svg" /> 
   </td>
   </tr>
@@ -105,43 +105,43 @@
   </tr>
   <tr>
   <td>
-    <a href="https://www.linkedin.com/in/premkumar-arumugam/">
+    <a href="https://www.linkedin.com/in/premkumar-arumugam/" target="_blank">
    <img width="35px" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg"/>
   </td>
   <td>
-    <a href="https://www.instagram.com/its_apk/">
+    <a href="https://www.instagram.com/its_apk/" target="_blank">
     <img width="35px" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg"/> 
   </td>
   <td>
-    <a href="https://www.facebook.com/a.premapk/">
+    <a href="https://www.facebook.com/a.premapk/" target="_blank">
     <img width="35px" alt="Facebook" src="https://github.com/PremApk/PremApk/blob/main/imgs/facebook.svg"/>
   </td>
   <td>
-    <a href="https://games.app.goo.gl/gbWYXqqqutN5Jmg9A">
+    <a href="https://games.app.goo.gl/gbWYXqqqutN5Jmg9A" target="_blank">
     <img width="35px" alt="Play Games" src="https://github.com/PremApk/PremApk/blob/main/imgs/playgames.svg"/>
   </td>
   <td>
-    <a href="https://www.quora.com/profile/PremKumar-68">
+    <a href="https://www.quora.com/profile/PremKumar-68" target="_blank">
    <img width="35px" alt="Quora" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>
   </td>
   <td>
-    <a href="https://stackoverflow.com/users/16359588/apk">
+    <a href="https://stackoverflow.com/users/16359588/apk" target="_blank">
     <img height="32" width="32" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/3d0b82888bdc2d2f32e6d372e5b9c14a6d7fc24a/imgs/stackoverflow.svg"/>
   </td>
   <td>
-    <a href="https://www.hackerrank.com/premapk">
+    <a href="https://www.hackerrank.com/premapk" target="_blank">
     <img height="32" width="32" alt="Hacker rank" src="https://github.com/PremApk/PremApk/blob/main/imgs/hackerrank.svg"/>
   </td>
   <td>
-    <a href="https://leetcode.com/its_apk/">
+    <a href="https://leetcode.com/its_apk/" target="_blank">
     <img height="32" width="32" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/leetcode.png"/>
   </td>
   <td>
-    <a href="http://timcap.herokuapp.com/">
+    <a href="http://timcap.herokuapp.com/" target="_blank">
     <img height="32" width="32" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.awesome.i&hl=en">
+    <a href="https://play.google.com/store/apps/details?id=com.awesome.i&hl=en" target="_blank">
     <img height="32" width="32" alt="Hacker rank" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>
   </td>
   </tr>
