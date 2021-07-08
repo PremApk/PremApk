@@ -21,32 +21,32 @@
   <th colspan="10" align="middle">LANGUAGES & FRAMEWORKS</th>
   </tr>
   <tr>
-  <td>
-  <img align="middle" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <td align="center">
+  <img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
   </td>
-  <td>
-  <img align="middle" alt="CPP" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />  
+  <td align="center">
+  <img alt="CPP" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />  
   </td>
-  <td>
-  <img align="middle" alt="Java" width="38px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
+  <td align="center">
+  <img alt="Java" width="38px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
   </td>
-  <td>
-  <img align="middle" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
+  <td align="center">
+  <img alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
   </td>
-  <td>
-  <img align="middle" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
+  <td align="center">
+  <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
   </td>
-  <td>
-  <img align="middle" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <td align="center">
+  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   </td>
-  <td>
-  <img align="middle" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <td align="center">
+  <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   </td>
-   <td>
-  <img align="middle" alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />
+   <td align="center">
+  <img alt="MySQL" width="40px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />
   </td>
-   <td>
-  <img align="middle" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+   <td align="center">
+  <img alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
   </td>
   </tr>
 </table>
