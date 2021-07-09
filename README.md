@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-  <th colspan="10" align="middle">LANGUAGES & FRAMEWORKS</th>
+  <th colspan="10" align="middle">🛠 LANGUAGES & FRAMEWORKS 🛠</th>
   </tr>
   <tr>
   <td align="center">
