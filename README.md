@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-  <th colspan="10" align="middle">🛠 LANGUAGES & FRAMEWORKS 🛠</th>
+  <th colspan="10" align="middle">😎 LANGUAGES & FRAMEWORKS 😎</th>
   </tr>
   <tr>
   <td align="center">
@@ -55,7 +55,7 @@
 
 <table>
   <tr>
-    <th colspan="10" align="middle">TOOLS AND IDE</th>
+    <th colspan="10" align="middle">🛠 TOOLS AND IDE 🛠</th>
   </tr>
   <tr>
   <td align="center">
@@ -101,7 +101,7 @@
 
 <table>
   <tr>
-     <th colspan="10" align="middle">CONNECT WITH ME</th>
+     <th colspan="10" align="middle">🤝 CONNECT WITH ME 🤝</th>
   </tr>
   <tr>
   <td align="center">
