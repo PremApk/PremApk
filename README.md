@@ -149,6 +149,15 @@
 
 <br>
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [A NutShell on How to Enjoy Life and Job](https://its-apk.medium.com/a-nutshell-on-how-to-enjoy-your-life-and-job-4fcd9786980d)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://its-apk.medium.com/)
+
+
 ### :love_you_gesture: GitHub Stats 
 <p float="left">
 <img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=false&theme=tokyonight"/>&ensp; &ensp;
