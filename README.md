@@ -106,43 +106,43 @@
   <tr>
   <td align="center">
     <a href="https://www.linkedin.com/in/premkumar-arumugam/" target="_blank">
-   <img width="40px" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg"/>
+   <img width="45px" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg"/>
   </td>
   <td align="center">
     <a href="https://www.instagram.com/its_apk/" target="_blank">
-    <img width="40px" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg"/> 
+    <img width="45px" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg"/> 
   </td>
   <td align="center">
     <a href="https://www.facebook.com/a.premapk/" target="_blank">
-    <img width="40px" alt="Facebook" src="https://github.com/PremApk/PremApk/blob/main/imgs/facebook.svg"/>
+    <img width="45px" alt="Facebook" src="https://github.com/PremApk/PremApk/blob/main/imgs/facebook.svg"/>
   </td>
   <td align="center">
     <a href="https://games.app.goo.gl/gbWYXqqqutN5Jmg9A" target="_blank">
-    <img width="40px" alt="Play Games" src="https://github.com/PremApk/PremApk/blob/main/imgs/playgames.svg"/>
+    <img width="45px" alt="Play Games" src="https://github.com/PremApk/PremApk/blob/main/imgs/playgames.svg"/>
   </td>
   <td align="center">
     <a href="https://www.quora.com/profile/PremKumar-68" target="_blank">
-   <img width="40px" alt="Quora" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>
+   <img width="45px" alt="Quora" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>
   </td>
   <td align="center">
     <a href="https://stackoverflow.com/users/16359588/apk" target="_blank">
-    <img width="40px" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/3d0b82888bdc2d2f32e6d372e5b9c14a6d7fc24a/imgs/stackoverflow.svg"/>
+    <img width="45px" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/3d0b82888bdc2d2f32e6d372e5b9c14a6d7fc24a/imgs/stackoverflow.svg"/>
   </td>
   <td align="center">
     <a href="https://www.hackerrank.com/premapk" target="_blank">
-    <img width="40px" alt="Hacker rank" src="https://github.com/PremApk/PremApk/blob/main/imgs/hackerrank.svg"/>
+    <img width="45px" alt="Hacker rank" src="https://github.com/PremApk/PremApk/blob/main/imgs/hackerrank.svg"/>
   </td>
   <td align="center">
     <a href="https://leetcode.com/its_apk/" target="_blank">
-    <img width="40px" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/leetcode.png"/>
+    <img width="45px" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/leetcode.png"/>
   </td>
   <td align="center">
     <a href="http://timcap.herokuapp.com/" target="_blank">
-    <img width="40px" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>
+    <img width="45px" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>
   </td>
   <td align="center">
     <a href="https://play.google.com/store/apps/details?id=com.awesome.i&hl=en" target="_blank">
-    <img width="40px" alt="Hacker rank" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>
+    <img width="45px" alt="Hacker rank" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>
   </td>
   </tr>
 </table>
