@@ -160,9 +160,9 @@
 
 ### :love_you_gesture: GitHub Stats 
 <p float="left">
-<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=false&theme=tokyonight"/>&ensp; &ensp;
-<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PremApk&theme=tokyonight"/> &ensp;
-<a href="https://github.com/PremApk/github-readme-activity-graph"><img alt="Apk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PremApk&bg_color=181927&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=false" /></a>
+<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=true&theme=vue&include_all_commits=true&custom_title=Count and Rank"/>&ensp; &ensp;
+<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PremApk&theme=vue&hide_border=true&stroke=FFFFFF&fire=orange&ring=orange"/> &ensp;
+<a href="https://github.com/PremApk/github-readme-activity-graph"><img alt="Apk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PremApk&hide_border=true&theme=github-light&area=true" /></a>
 </p>
 <!--
 <img src="https://imgur.com/rilHVxA.png"/> 
