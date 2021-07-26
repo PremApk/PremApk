@@ -117,10 +117,6 @@
     <img width="45px" alt="Facebook" src="https://github.com/PremApk/PremApk/blob/main/imgs/facebook.svg"/>
   </td>
   <td align="center">
-    <a href="https://games.app.goo.gl/gbWYXqqqutN5Jmg9A" target="_blank">
-    <img width="45px" alt="Play Games" src="https://github.com/PremApk/PremApk/blob/main/imgs/playgames.svg"/>
-  </td>
-  <td align="center">
     <a href="https://www.quora.com/profile/PremKumar-68" target="_blank">
    <img width="45px" alt="Quora" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>
   </td>
