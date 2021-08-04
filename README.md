@@ -156,7 +156,7 @@
 
 ### :love_you_gesture: GitHub Stats 
 <p float="left">
-<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=false&theme=tokyonight"/>&ensp; &ensp;
+<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=false&theme=chartreuse-dark"/>&ensp; &ensp;
 <img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=PremApk&theme=chartreuse-dark&hide_border=true&currStreakNum=2DDD16&currStreakLabel=56DD5E&fire=FFEF21"/> &ensp;
 <a href="https://github.com/PremApk/github-readme-activity-graph"><img alt="Apk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PremApk&bg_color=181927&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=false&area=true&area_color=FF0000" /></a>
 </p>
