@@ -151,7 +151,6 @@
 - [A NutShell on How to Enjoy Life and Job](https://its-apk.medium.com/a-nutshell-on-how-to-enjoy-your-life-and-job-4fcd9786980d)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://its-apk.medium.com/)
 
 
 ### :love_you_gesture: GitHub Stats 
