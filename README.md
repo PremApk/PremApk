@@ -149,6 +149,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A NutShell on How to Enjoy Life and Job](https://its-apk.medium.com/a-nutshell-on-how-to-enjoy-your-life-and-job-4fcd9786980d)
+- [CashFlow Quadrant - Guide to Financial Freedom](https://its-apk.medium.com/?p=4b528e9df599)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📚 Book's that I read
