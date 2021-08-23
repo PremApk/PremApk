@@ -145,6 +145,17 @@
 
 <br>
 
+<h3>open source projects</h3>
+
+
+| Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
+|---------|-------|-------|--------|---------------|
+| TimBurgan's Chess | ![GitHub stars](https://img.shields.io/github/stars/timburgan/timburgan?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/timburgan/timburgan?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/timburgan/timburgan?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/timburgan/timburgan?style=for-the-badge) |
+| Integer Sequences | ![GitHub stars](https://img.shields.io/github/stars/Twiggecode/Integer-Sequences?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/Twiggecode/Integer-Sequences?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/Twiggecode/Integer-Sequences?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/Twiggecode/Integer-Sequences?style=for-the-badge) |
+| Patterns | ![GitHub stars](https://img.shields.io/github/stars/stlyash/patterns?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/stlyash/patterns?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/stlyash/patterns?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/stlyash/patterns?style=for-the-badge) |
+| CheatSheets | ![GitHub stars](https://img.shields.io/github/stars/detailyang/awesome-cheatsheet?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/detailyang/awesome-cheatsheet?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/detailyang/awesome-cheatsheet?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/detailyang/awesome-cheatsheet?style=for-the-badge) |
+
+
 ### 📋 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
