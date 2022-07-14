@@ -1,4 +1,4 @@
-# I'm [PremKumar a.k.a Apk!](https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px"><img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
+# I'm [PremKumar a.k.a Apk!](https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px"><img src="butterfly.gif" width=50%>
 <br><br>
 ![](https://github.com/PremApk/PremApk/blob/main/header_.png)
 <br><br>
