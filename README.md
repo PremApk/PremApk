@@ -1,4 +1,4 @@
-# I'm [PremKumar a.k.a Apk!](https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px"><img src="butterfly.gif" width=50%>
+# I'm [PremKumar a.k.a Apk!](https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px"><img src="butterfly.gif" width=40%><img src="dog.gif" width=15%>
 <br><br>
 ![](https://github.com/PremApk/PremApk/blob/main/header_.png)
 <br><br>
@@ -6,7 +6,7 @@
 
 - :icecream: Life is like **Ice-Cream**, Enjoy before it **Melts**!!!
 - 😄 Looking forward to collaborate with others
-- 🌱 Currently Learning and has no prior Experience
+- 🌱 1+ year Experience as Microservice Developer
 - 🥇 Game Development World Championship 2020 -- Finalist
 - :upside_down_face: Skilled **Python** Coder
 - ⚡ Fun Fact: I love to be a **Gamer**. But I play once in a month.
@@ -16,16 +16,63 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i6kun2dwsyhtfrs3dtexobf5vy&cover_image=true&theme=novatorem) &nbsp; &nbsp; &ensp; &ensp; <img  alt="GIF" height="125px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <br>
 
-<table>
+<table border-collapse="collapse">
   <tr>
-  <th colspan="10" align="middle">😎 LANGUAGES & FRAMEWORKS 😎</th>
+  <th colspan="10" align="middle">😎 Programming Languages 😎</th>
+  </tr>
+  <tr>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Java" width="30px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
+  </td>
+  <td align="center">
+  <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  </tr>
+  <tr>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Java" width="30px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
+  </td>
+  <td align="center">
+  <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
   </tr>
   <tr>
   <td align="center">
   <img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
-  </td>
-  <td align="center">
-  <img alt="CPP" width="50px" src="https://github.com/PremApk/PremApk/blob/main/imgs/c.svg" />  
   </td>
   <td align="center">
   <img alt="Java" width="45px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
@@ -50,98 +97,9 @@
   </td>
   </tr>
 </table>
-
 <br>
 
-<table>
-  <tr>
-    <th colspan="10" align="middle">🛠 TOOLS AND IDE 🛠</th>
-  </tr>
-  <tr>
-  <td align="center">
-    <a href="https://code.visualstudio.com/download" target="_blank">
-    <img alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> 
-  </td>
-  <td align="center">
-    <a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank">
-    <img alt="Intellij" width="50px" src="https://github.com/PremApk/PremApk/blob/main/imgs/intellij-idea.svg" /> 
-  </td>
-  <td align="center">
-    <a href="https://developer.android.com/studio" target="_blank">
-    <img alt="Android" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-  </td>
-  <td align="center">
-    <a href="https://unity.com/" target="_blank">
-    <img alt="Unity" width="50px" src="https://github.com/PremApk/PremApk/blob/main/imgs/unity.svg" /> 
-  </td>
-  <td align="center">
-    <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab" target="_blank">
-    <img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
-  </td>
-  <td align="center">
-    <a href="https://www.docker.com/products/docker-desktop" target="_blank">
-    <img alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> 
-  </td>
-  <td align="center">
-    <a href="https://git-scm.com/downloads" target="_blank">
-    <img alt="Git" width="50px" src="https://github.com/PremApk/PremApk/blob/main/imgs/git.svg" /> 
-  </td>
-  <td align="center">
-    <a href="https://www.heroku.com/" target="_blank">
-    <img alt="Heroku" width="50px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" /> 
-  </td>
-  <td align="center">
-    <a href="https://www.apachefriends.org/download.html" target="_blank">
-    <img alt="Apache" width="50px" src="https://github.com/PremApk/PremApk/blob/main/imgs/xampp.svg" /> 
-  </td>
-  </tr>
-</table>
 
-<br>
-
-<table>
-  <tr>
-     <th colspan="10" align="middle">🤝 CONNECT WITH ME 🤝</th>
-  </tr>
-  <tr>
-  <td align="center">
-    <a href="https://www.linkedin.com/in/premkumar-arumugam/" target="_blank">
-   <img width="45px" alt="Linked In" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg"/>
-  </td>
-  <td align="center">
-    <a href="https://www.instagram.com/its_apk/" target="_blank">
-    <img width="45px" alt="Instagram" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg"/> 
-  </td>
-  <td align="center">
-    <a href="https://www.facebook.com/a.premapk/" target="_blank">
-    <img width="45px" alt="Facebook" src="https://github.com/PremApk/PremApk/blob/main/imgs/facebook.svg"/>
-  </td>
-  <td align="center">
-    <a href="https://www.quora.com/profile/PremKumar-68" target="_blank">
-   <img width="45px" alt="Quora" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg"/>
-  </td>
-  <td align="center">
-    <a href="https://stackoverflow.com/users/16359588/apk" target="_blank">
-    <img width="45px" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/3d0b82888bdc2d2f32e6d372e5b9c14a6d7fc24a/imgs/stackoverflow.svg"/>
-  </td>
-  <td align="center">
-    <a href="https://www.hackerrank.com/premapk" target="_blank">
-    <img width="45px" alt="Hacker rank" src="https://github.com/PremApk/PremApk/blob/main/imgs/hackerrank.svg"/>
-  </td>
-  <td align="center">
-    <a href="https://leetcode.com/its_apk/" target="_blank">
-    <img width="45px" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/leetcode.png"/>
-  </td>
-  <td align="center">
-    <a href="http://timcap.herokuapp.com/" target="_blank">
-    <img width="45px" alt="Hacker rank" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Logo.ico"/>
-  </td>
-  <td align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.awesome.i&hl=en" target="_blank">
-    <img width="45px" alt="Hacker rank" src="https://play-lh.googleusercontent.com/avch9Hr55jBqNa4_BgMS2HMoPV1BiPbx9c2Fj3tRzuigRMn2MrUc8xKe24vRNMmKdw=s180-rw"/>
-  </td>
-  </tr>
-</table>
 
 <br>
 
