@@ -120,6 +120,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A NutShell on How to Enjoy Life and Job](https://its-apk.medium.com/a-nutshell-on-how-to-enjoy-your-life-and-job-4fcd9786980d)
 - [CashFlow Quadrant - Guide to Financial Freedom](https://its-apk.medium.com/?p=4b528e9df599)
+- [Spiritual Wisdom from Siddhartha's Journey](https://medium.com/@its-apk/spiritual-wisdom-from-siddharthas-journey-e277afe9f13e)
+- [Not every story has a Happy Ending](https://medium.com/@its-apk/not-every-story-has-a-happy-ending-5bd0f575b5bd)
+- [Want teams status "Available" always](https://medium.com/@its-apk/not-every-story-has-a-happy-ending-5bd0f575b5bd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📚 Book's that I read
@@ -130,7 +133,7 @@
  - ✅ [How to Enjoy Life and Job](https://www.amazon.in/How-Enjoy-Your-Life-Job/dp/0671708260)
  - ✅ [The Alchemist](https://www.amazon.in/dp/8172234988/ref=cm_sw_em_r_mt_dp_ZTQ6A7G4JJYH2ATNFK2S )
  - ✅ [Siddhartha](https://www.amazon.in/Siddhartha-Hermann-Hesse/dp/817234368X )
- - ⏱ [Think and Grow Rich](http://dl.flipkart.com/dl/think-grow-rich/p/itmetgycujwexyqh?pid=9788192910918&cmpid=product.share.pp )
+ - ⏱ [The Happiest Man on Earth](https://www.amazon.in/Happiest-Man-Earth-Eddie-Jaku/dp/1760980080)
 <!-- BLOG-LIST:END -->
 
 
@@ -139,8 +142,7 @@
 <p float="left">
 <img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=false&theme=chartreuse-dark"/>&ensp; &ensp;
 <img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=PremApk&theme=chartreuse-dark&hide_border=false&currStreakNum=2DDD16&currStreakLabel=56DD5E&fire=FFEF21"/> &ensp;
-<a href="https://github.com/PremApk/github-readme-activity-graph"><img alt="Apk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PremApk&bg_color=181927&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=false&area=true&area_color=FF0000" /></a>
-</p>
+
 
 ---
    *If you think my profile is good, you can Star ⭐ the repo and to contribute this template, you can Fork it.- Thank you*
