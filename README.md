@@ -119,10 +119,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A NutShell on How to Enjoy Life and Job](https://its-apk.medium.com/a-nutshell-on-how-to-enjoy-your-life-and-job-4fcd9786980d)
-- [CashFlow Quadrant - Guide to Financial Freedom](https://its-apk.medium.com/?p=4b528e9df599)
+- [CashFlow Quadrant - Guide to Financial Freedom](https://medium.com/@its-apk/cashflow-quadrant-guide-to-financial-freedom-4b528e9df599)
 - [Spiritual Wisdom from Siddhartha's Journey](https://medium.com/@its-apk/spiritual-wisdom-from-siddharthas-journey-e277afe9f13e)
 - [Not every story has a Happy Ending](https://medium.com/@its-apk/not-every-story-has-a-happy-ending-5bd0f575b5bd)
-- [Want teams status "Available" always](https://medium.com/@its-apk/not-every-story-has-a-happy-ending-5bd0f575b5bd)
+- [Want teams status "Available" always](https://medium.com/@its-apk/want-teams-status-available-always-5ad7d55cb1e5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📚 Book's that I read
