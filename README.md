@@ -18,44 +18,44 @@
 
 <table border-collapse="collapse">
   <tr>
-  <th colspan="10" align="middle">😎 Programming Languages 😎</th>
+  <th colspan="10" align="middle">Things that I use</th>
   </tr>
   <tr>
   <td align="center">
   <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
   </td>
   <td align="center">
-  <img alt="Java" width="30px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
+  <img alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
   </td>
   <td align="center">
-  <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="Docker" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/docker.png" />  
   </td>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/awslogo2.png" />  
   </td>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/12ce92f43f3d120ec9fc08b92924822074879e21/imgs/mysql-6.svg" />  
   </td>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="Intellij" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/intellij-idea.svg" />  
   </td>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="Git" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/git.svg" />  
   </td>
   </tr>
   <tr>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="VsCode" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/vscode.svg" />  
   </td>
   <td align="center">
-  <img alt="Java" width="30px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
+  <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/mongodb.svg" />  
   </td>
   <td align="center">
-  <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="PHP" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/php-1.svg" />
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="Unity" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/unity-69.svg" />  
   </td>
   <td align="center">
   <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
