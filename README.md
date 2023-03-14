@@ -58,24 +58,24 @@
   <img alt="Unity" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/unity-69.svg" />  
   </td>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/630b87825153b8fb3566fcb228a04eb077e7567e/imgs/heroku-4.svg" />  
   </td>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="kafka" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Apache_kafka.svg.png" />  
   </td>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="kube" width="40px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/kube.png" />  
   </td>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   </td>
   </tr>
   <tr>
   <td align="center">
-  <img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="Spring" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/ad9f0c5612861bf9f5339cc6c73f6621454168b4/imgs/jira.svg" />  
   </td>
   <td align="center">
-  <img alt="Java" width="45px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
+  <img alt="Jira" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/ad9f0c5612861bf9f5339cc6c73f6621454168b4/imgs/jira.svg" />  
   </td>
   <td align="center">
   <img alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
