@@ -18,7 +18,7 @@
 
 <table border-collapse="collapse">
   <tr>
-  <th colspan="10" align="middle">------------------ Things that I use -------------------</th>
+  <th colspan="10" align="middle"> Things that I use </th>
   </tr>
   <tr>
   <td align="center">
