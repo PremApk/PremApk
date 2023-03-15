@@ -18,11 +18,11 @@
 
 <table border-collapse="collapse">
   <tr>
-  <th colspan="10" align="middle">Things that I use</th>
+  <th colspan="10" align="middle">------------------ Things that I use -------------------</th>
   </tr>
   <tr>
   <td align="center">
-  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
   </td>
   <td align="center">
   <img alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
@@ -50,7 +50,7 @@
   <img alt="VsCode" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/vscode.svg" />  
   </td>
   <td align="center">
-  <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/mongodb.svg" />  
+  <img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/mongodb.svg" />  
   </td>
   <td align="center">
   <img alt="PHP" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/php-1.svg" />
@@ -61,7 +61,7 @@
   <img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/630b87825153b8fb3566fcb228a04eb077e7567e/imgs/heroku-4.svg" />  
   </td>
   <td align="center">
-  <img alt="kafka" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Apache_kafka.svg.png" />  
+  <img alt="kafka" width="25px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Apache_kafka.svg.png" />  
   </td>
   <td align="center">
   <img alt="kube" width="40px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/kube.png" />  
@@ -72,34 +72,32 @@
   </tr>
   <tr>
   <td align="center">
-  <img alt="Spring" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/ad9f0c5612861bf9f5339cc6c73f6621454168b4/imgs/jira.svg" />  
+  <img alt="Spring" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/spring-3.svg" />  
   </td>
   <td align="center">
   <img alt="Jira" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/ad9f0c5612861bf9f5339cc6c73f6621454168b4/imgs/jira.svg" />  
   </td>
   <td align="center">
-  <img alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
+  <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
   </td>
   <td align="center">
-  <img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
+  <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
   </td>
   <td align="center">
-  <img alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="Oracle" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/oracle.svg" />
   </td>
   <td align="center">
-  <img alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img alt="Xampp" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/xampp.svg" />
   </td>
    <td align="center">
-  <img alt="MySQL" width="50px" src="https://github.com/PremApk/PremApk/blob/main/imgs/mysql-6.svg" />
+  <img alt="Firebase" width="20px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/firebase-1.svg" />
   </td>
    <td align="center">
-  <img alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+  <img alt="Windows" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Windows_Terminal_logo.svg.png" />
   </td>
   </tr>
 </table>
 <br>
-
-
 
 <br>
 
@@ -140,8 +138,8 @@
 
 ### :love_you_gesture: GitHub Stats 
 <p float="left">
-<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=premapk&show_icons=true&hide_border=false&theme=chartreuse-dark"/>&ensp; &ensp;
-<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=PremApk&theme=chartreuse-dark&hide_border=false&currStreakNum=2DDD16&currStreakLabel=56DD5E&fire=FFEF21"/> &ensp;
+<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PremApk&show_icons=true&hide_border=false&theme=chartreuse-dark"/>&ensp; &ensp;
+<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PremApk&theme=chartreuse-dark&hide_border=false&currStreakNum=2DDD16&currStreakLabel=56DD5E&fire=FFEF21"/> &ensp;
 
 
 ---
