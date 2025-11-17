@@ -1,4 +1,4 @@
-# I'm [PremKumar a.k.a Apk!](https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px"><img src="butterfly.gif" width=40%><img src="dog.gif" width=15%>
+# I'm [PremKumar a.k.a Apk!](https://itsapk.in/) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px"><img src="butterfly.gif" width=40%><img src="dog.gif" width=15%>
 <br><br>
 ![](https://github.com/PremApk/PremApk/blob/main/header_.png)
 <br><br>
@@ -6,9 +6,9 @@
 
 - :icecream: Life is like **Ice-Cream**, Enjoy before it **Melts**!!!
 - 😄 Looking forward to collaborate with others
-- 🌱 1+ year Experience as Microservice Developer
+- 🌱 4 years of Experience as Microservice Developer
 - 🥇 Game Development World Championship 2020 -- Finalist
-- :upside_down_face: Skilled **Python** Coder
+- :upside_down_face: Skilled **Java** Coder
 - ⚡ Fun Fact: I love to be a **Gamer**. But I play once in a month.
 
 
